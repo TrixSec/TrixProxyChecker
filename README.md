@@ -13,3 +13,5 @@ This Python script checks the working status of proxies from a file. It supports
 # Usage
 - pip3 install requirements.txt
 - python3 TrixProxyChecker
+
+Join My Telegram channel:- https://t.me/Trixsec
